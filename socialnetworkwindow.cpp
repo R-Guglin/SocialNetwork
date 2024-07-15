@@ -3,10 +3,10 @@
 #include <sstream>
 
 //Constants
-char USERS_READ_FILE[128] = "users2.txt";
-char USERS_WRITE_FILE[128] = "users2.txt";
-char POSTS_READ_FILE[128] = "posts2.txt";
-char POSTS_WRITE_FILE[128] = "posts2.txt";
+char USERS_READ_FILE[128] = "users.txt";
+char USERS_WRITE_FILE[128] = "users.txt";
+char POSTS_READ_FILE[128] = "posts.txt";
+char POSTS_WRITE_FILE[128] = "posts.txt";
 int MAX_POSTS_DISPLAYED = 10;
 int MAX_COMMENTS_DISPLAYED = 10;
 
