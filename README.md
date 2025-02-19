@@ -5,4 +5,4 @@ Usage: Sample posts.txt and users.txt files are provided. You will need to have 
 1. Modify USERS_READ_FILE, USERS_WRITE_FILE, POSTS_READ_FILE, and POSTS_WRITE_FILE in socialnetworkwindow.cpp to include the EXACT file path to those files
 2. Place those files in the project's build directory folder. You can find this by clicking Project -> Build on the Qt Creator sidebar and then copying or modifying the build directory listed there.
 </br></br>
-Have fun! Note that this is still a work in progress and additional features/corrections will be added soon.
+Have fun!
